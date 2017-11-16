@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "954487590150",
+    "firebase_url": "https://parki-app.firebaseio.com",
+    "project_id": "parki-app",
+    "storage_bucket": "parki-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954487590150:android:b90e895f6801d8c6",
+        "android_client_info": {
+          "package_name": "com.example.wsslmac.parkiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954487590150-7ge5r7md49ki9hcugv8ueali6d19bs81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wsslmac.parkiapp",
+            "certificate_hash": "61e788069baddf8648cdd9c349cdf90c1de91731"
+          }
+        },
+        {
+          "client_id": "954487590150-5cg1j0p9hh4dkko8nv7qjff26mo0273f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhpKXNHbqjxddkzTKkz8nMx9ni3UQEr_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954487590150-5cg1j0p9hh4dkko8nv7qjff26mo0273f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
